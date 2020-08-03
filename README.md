@@ -3,7 +3,7 @@ Master SQL, the core language for Big Data analysis and enable insight-driven de
 
 ## Certificate of Completion
 
-![Certificate](Udacity-SQL.pdf)
+![Certificate](Udacity-SQL.svg)
 
 ### Part 1 - Introduction to SQL
 
