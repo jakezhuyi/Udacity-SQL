@@ -1,6 +1,10 @@
 # Udacity SQL Nanodegree 
 Master SQL, the core language for Big Data analysis and enable insight-driven decision-making and strategy for business.
 
+## Certificate of Completion
+
+![Certificate](Udacity-SQL.pdf)
+
 ### Part 1 - Introduction to SQL
 
 * Execute core SQL commands to define, select, manipulate, control access, aggregate and join data tables. 
